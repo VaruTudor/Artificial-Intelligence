@@ -1,0 +1,7 @@
+T.Mihoc - Intelligent Systems - Automatic learning systems
+T.Mihoc - Intelligent Systems - K-means
+
+https://www.youtube.com/watch?v=XwNeakY6HEg
+https://www.youtube.com/watch?v=1XqG0kaJVHY
+
+https://stats.stackexchange.com/questions/15158/precision-and-recall-for-clustering
